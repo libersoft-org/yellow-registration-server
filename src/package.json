@@ -1,6 +1,6 @@
 {
  "name": "yellow-module-messages",
  "dependencies": {
-  "mariadb": "*"
+  "mariadb": "^3.3.2"
  }
 }
